@@ -23,7 +23,7 @@ Me apasiona resolver problemas a través del código y actualmente estoy enfocad
 ---
 
 ## 📫 Cómo contactarme
-*   **LinkedIn:** [([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/marco-gomez-sanchez-6b175b3b1/))]
+*   **LinkedIn:** [([Marco Gómez](https://www.linkedin.com/in/marco-gomez-sanchez-6b175b3b1/))]
 *   **Instagram:** `mcilindro_07'
 
 
