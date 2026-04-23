@@ -1,7 +1,7 @@
 # ¡Hola! Soy Marco 👋
 
 ### 🚀 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma)
-Me apasiona resolver problemas a través del código y actualmente estoy enfocado en dominar el ecosistema de **.NET** y **C#**.
+Me apasiona resolver problemas a través del código y actualmente estoy enfocado en dominar el desarrollo tanto de webs como de aplicaciones.
 
 ---
 
